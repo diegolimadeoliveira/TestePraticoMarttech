@@ -6,7 +6,7 @@ https://springboot-jpa-hibernate-jav.herokuapp.com/
 
 acessos:
 
-users
-products
-orders
-categories
+/users
+/products
+/orders
+/categories
